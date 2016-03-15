@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MeuTime</string>
+    <string name="action_settings">Settings</string>
+    <string name="tituloJogador">Lista de Jogadores</string>
+    <string name="numeroJogadores">Total: %1$s</string>
+    <string name="jogador">Jogador</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_limpar_lista">Deletar lista</string>
+    <string name="btn_criar_times">Criar Times</string>
+    <string name="erro_nome_jogador">Digite um nome</string>
+    <string name="empty_lista">Lista de jogadores está Pronta</string>
+    <string name="delete_aviso">Lista de jogadores deletada</string>
+    <string name="undo_action">Feito</string>
+    <string name="min_jogadores_aviso">Existem mais jogadores do que o permitido</string>
+    <string name="titulo_numero_times">Numero de Times</string>
+    <string name="ok_aviso">OK</string>
+    <string name="cancelar_aviso">Cancelar</string>
+    <string name="and">" &amp; "</string>
+    <string name="titulo_times">Times</string>
+    <string name="Btn_voltar">Voltar</string>
+    <string name="btn_random_again">Refazer Times</string>
+    <string name="label_time">Time</string>
+</resources>

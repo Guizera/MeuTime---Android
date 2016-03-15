@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#267bb7</color>
+    <color name="colorPrimaryDark">#165e87</color>
+    <color name="colorAccent">#529ca6</color>
+    <color name="colorControlNormal">#727272</color>
+    <color name="colorControlActivated">#2c69c4</color>
+    <color name="colorSwitchThumbNormal">#727272</color>
+
+    <color name="rippleColor">#6cd5ea</color>
+</resources>
